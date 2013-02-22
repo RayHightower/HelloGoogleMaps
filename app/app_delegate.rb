@@ -1,4 +1,4 @@
-GOOGLE_MAP_API_KEY = "YOUR_API_KEY"
+GOOGLE_MAP_API_KEY = "AIzaSyCZDS-5zPDAx0SAJJVxmF1lBAKJEHspmbI"
 
 class GoogleMapsController < UIViewController
   def loadView
